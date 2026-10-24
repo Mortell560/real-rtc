@@ -4,7 +4,7 @@ members = ["real-rtc-core"]
 
 [workspace.package]
 version = "0.1.0"
-license-file = "LICENSE"
+license = "GPLv3"
 edition = "2024"
 
 [profile.release]
